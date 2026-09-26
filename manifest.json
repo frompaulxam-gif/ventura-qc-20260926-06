@@ -1,0 +1,79 @@
+{
+  "items": [
+    {
+      "code": "01",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "01-ref",
+          "label": "Reference",
+          "reference": true,
+          "width": 720,
+          "height": 1280,
+          "image": "media/reference.png",
+          "source": "media/reference.png"
+        },
+        {
+          "id": "01-new",
+          "label": "Study A",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/01-new.mp4",
+          "poster": "media/01-new.png",
+          "source": "media/01-new.png"
+        }
+      ]
+    },
+    {
+      "code": "02",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "02-ref",
+          "label": "Reference",
+          "reference": true,
+          "width": 720,
+          "height": 1280,
+          "image": "media/reference.png",
+          "source": "media/reference.png"
+        },
+        {
+          "id": "02-new",
+          "label": "Study B",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/02-new.mp4",
+          "poster": "media/02-new.png",
+          "source": "media/02-new.png"
+        }
+      ]
+    },
+    {
+      "code": "03",
+      "brand": "Motion",
+      "variants": [
+        {
+          "id": "03-ref",
+          "label": "Reference",
+          "reference": true,
+          "width": 720,
+          "height": 1280,
+          "image": "media/reference.png",
+          "source": "media/reference.png"
+        },
+        {
+          "id": "03-new",
+          "label": "Study C",
+          "reference": false,
+          "width": 1024,
+          "height": 1536,
+          "video": "media/03-new.mp4",
+          "poster": "media/03-new.png",
+          "source": "media/03-new.png"
+        }
+      ]
+    }
+  ]
+}
